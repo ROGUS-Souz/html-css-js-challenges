@@ -1,0 +1,32 @@
+.titulo {
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    font-style: bolder; 
+}
+
+.lista {
+    list-style-type:upper-latin;
+    color: black;
+    font-size: 20px;
+    text-align:left;
+}
+
+.lista li:nth-child(odd) {
+    background-color: rgb(255, 166, 0);
+    width: fit-content;
+}
+
+.lista li:nth-child(even) {
+    background-color: rgb(255, 81, 0);
+    width: fit-content;
+}
+
+.lista li:hover{
+    background-color:rgb(113, 204, 216);
+    font-size: 50px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+    width: fit-content;
+}

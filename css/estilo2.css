@@ -1,0 +1,38 @@
+.caixa{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: royalblue;
+    margin: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style:italic;
+}
+
+.caixa1{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: lightblue;
+}
+
+.caixa2{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    background-color: lightgreen;
+}
+
+.caixa3{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background-color: lightcoral;
+}
+
+.caixa4{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
