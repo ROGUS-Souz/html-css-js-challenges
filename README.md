@@ -1,1 +1,1 @@
-# html-css-js-challenges
+This my journey through css, html and js. 
